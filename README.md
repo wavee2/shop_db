@@ -1,6 +1,6 @@
-# shop_dp
+## shop_dp
+### ReadMe
 ```
-###ReadMe
 1.ดาวน์โหลดไฟล์ sp_cart แล้วแตกไฟล์เข้าไปใน xampp ในโฟลเดอร์ที่ชื่อ htdoc 
 2.จากนั้นให้แตกไฟล์ที่ชื่อว่า phpqrcode-master 
 3.เปิดโปรแกรม xampp เปิดตัว apache แล้วก็ตัว mysql 
